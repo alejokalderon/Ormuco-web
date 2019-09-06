@@ -130,6 +130,7 @@
 
                     } else {
                         var message = "Error de ejecución: " + xhr.status + " " + xhr.statusText;
+                        alert("Error duplicado");
                         swal(
                             'Error!!',
                             message,
