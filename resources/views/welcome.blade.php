@@ -66,11 +66,11 @@
             <div class="col-sm-10">
                 <select name="color" class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
                     <option selected >Choose...</option>
-                    <option value="1">Blue</option>
-                    <option value="2">Red</option>
-                    <option value="3">Green</option>
-                    <option value="4">Yellow</option>
-                    <option value="5">Orange</option>
+                    <option value="Blue">Blue</option>
+                    <option value="Red">Red</option>
+                    <option value="Green">Green</option>
+                    <option value="Yellow">Yellow</option>
+                    <option value="Orange">Orange</option>
                 </select>
             </div>
         </div>
