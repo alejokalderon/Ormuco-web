@@ -129,7 +129,7 @@
                         $("#alertErrorLogin").show();
 
                     } else {
-                        var message = "Error de ejecución: " + xhr.status + " " + xhr.statusText;
+                        var message = "Error: Duplicated value: " + xhr.status + " " + xhr.statusText;
                         swal(
                             'Error!!',
                             message,
